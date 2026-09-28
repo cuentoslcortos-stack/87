@@ -1,0 +1,47 @@
+INSTRUCCIONES DE USO — Asistente 87A
+=====================================================
+
+Materia: Laboratorio de Sonido I
+Código: 87A
+Cátedra: Cura
+Facultad: Artes Multimediales, Universidad Nacional de las Artes (UNA)
+
+Qué hace este tutor:
+  Asistente académico por voz. Escuchá una pregunta formulada oralmente
+  (Multiple Choice, Verdadero/Falso o Cloze) sobre los contenidos de
+  la Cátedra Cura y devuelve la opción correcta con una justificación
+  breve. Pensado para preparar parciales (E1, E2), trabajos prácticos
+  (E3, E4) y exámenes finales regulares y libres de Laboratorio de
+  Sonido I.
+
+  Las respuestas son cortas (entre 40 y 150 palabras; máximo 200)
+  y se ajustan a uno de los tres formatos del system prompt.
+
+Cómo se usa:
+  1. Pegá tu API Key de Gemini en el panel "Configuración" (esquina
+     inferior derecha). También podés fijarla como variable de entorno
+     VITE_GEMINI_API_KEY.
+  2. Tocá "Grabar" y formulá tu pregunta en voz alta. Podés pausar y
+     reanudar para releer; todo se acumula en un único clip.
+  3. Tocá "Enviar". La respuesta aparece escrita y se lee en voz alta
+     automáticamente.
+  4. La respuesta queda en la bitácora de la sesión y se guarda
+     automáticamente como archivo .txt en la carpeta qa-logs/ del
+     repositorio (segundo plano, sin interrumpir).
+
+Atajos:
+  · Botón 3 (Play/Pausa voz): pausar/reanudar la lectura de la
+    respuesta actual.
+
+Avisos:
+  · Esta versión NO usa PDFs como base de conocimiento. El tutor
+    responde con el conocimiento de entrenamiento del modelo sobre
+    acústica, psicoacústica, audio digital, DSP y montaje sonoro,
+    ajustado al marco de la Cátedra Cura.
+  · Si le preguntás algo fuera del programa, va a contestar con
+    la fórmula estándar de rechazo.
+  · Las preguntas formuladas por voz se transcriben antes de enviarse
+    a Gemini (para que queden en el log).
+  · El guardado automático en GitHub requiere un token con permiso
+    de Contents: read+write sobre este repo (configurado como
+    VITE_GITHUB_TOKEN en los Secrets del repo).

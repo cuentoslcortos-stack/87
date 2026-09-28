@@ -1,0 +1,12 @@
+asis-87a · 27/9/2026, 10:37:46 · 0:26
+============================================================
+
+PREGUNTA:
+En los sonidos armónicos encontramos que 1, sus componentes no están en relación de múltiplos enteros de una frecuencia fundamental. 2, no hay componentes sinusoidales. 3, sus componentes están en relación de múltiplos enteros de una frecuencia fundamental.
+
+RESPUESTA:
+Opción correcta: 3. Sus componentes están en relación de múltiplos enteros de una frecuencia fundamental.
+
+Por qué las otras son incorrectas: La opción 1 describe la estructura de los sonidos inarmónicos, mientras que la opción 2 es incorrecta porque, según el teorema de Fourier, todo sonido complejo está compuesto por parciales sinusoidales.
+
+============================================================
