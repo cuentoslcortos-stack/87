@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:34:14 · 0:27
+============================================================
+
+PREGUNTA:
+La suma de dos movimientos oscilatorios simples de distinta frecuencia es igual 1. a otro sonido simple de distinta fase y amplitud. 2. a un sonido complejo. 3. a otro sonido simple de distinta fase.
+
+RESPUESTA:
+Opción correcta: 2) A un sonido complejo.
+
+Por qué las otras son incorrectas: Las opciones 1 y 3 son incorrectas porque la superposición o suma de senoides de distintas frecuencias jamás genera una onda senoidal simple, sino un sonido complejo con un espectro compuesto por múltiples componentes frecuenciales según el principio de Fourier.
+
+============================================================
