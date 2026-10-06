@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:29:49 · 0:44
+============================================================
+
+PREGUNTA:
+La suma de dos movimientos oscilatorios simples de igual fase, frecuencia y amplitud es igual 1 a un movimiento oscilatorio simple de igual fase, frecuencia y cero amplitud. 2 a un movimiento oscilatorio simple de igual frecuencia, amplitud y distinta fase. 3 a un movimiento oscilatorio simple de igual fase, frecuencia y el doble de amplitud.
+
+RESPUESTA:
+Opción correcta: 3) Un movimiento oscilatorio simple de igual fase, frecuencia y el doble de amplitud.
+
+Por qué las otras son incorrectas: Las opciones 1 y 2 son incorrectas porque la superposición destructiva o el desfase no ocurren cuando dos ondas componentes comparten exactamente la misma fase y frecuencia, condición en la cual la interferencia es puramente constructiva y suma sus amplitudes.
+
+============================================================
