@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:47:55 · 0:35
+============================================================
+
+PREGUNTA:
+De acuerdo a la tabla de curvas isofónicas aproximadamente ¿qué presión debería tener un tono de 50 Hz para tener un nivel de sonoridad de 40 phons? Marcaremos gráfico aproximadamente el punto adecuado en gráfico A en el eje Y de 0 a 120, en el eje X de 0.02 a 1 y 1 a 10.
+
+RESPUESTA:
+Opción correcta: Aproximadamente 70 dB SPL (eje Y) en la frecuencia de 50 Hz (0.05 kHz en el eje X).
+
+Por qué las otras son incorrectas: Ubicar el punto en valores inferiores a 70 dB SPL ignoraría la pérdida de sensibilidad de la audición humana en bajas frecuencias descrita por las curvas isofónicas de Fletcher-Munson, donde un tono de 50 Hz requiere mayor presión sonora para igualar la sonoridad de 40 fonios (referenciada a 1 kHz a 40 dB SPL).
+
+============================================================
