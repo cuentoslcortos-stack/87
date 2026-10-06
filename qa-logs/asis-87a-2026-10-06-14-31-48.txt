@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:31:48 · 0:35
+============================================================
+
+PREGUNTA:
+Se llama frente de onda A1 la distancia de distancia recorrida por una perturbación en un momento dado. por una perturbación en un momento dado 2 al momento en que la perturbación encuentra un obstáculo 3 la superficie formada por todos los puntos que en un momento dado experimentan una misma perturbación
+
+RESPUESTA:
+Calificación: Falso
+
+Justificación: La definición brindada ("la superficie formada por todos los puntos que en un momento dado experimentan una misma perturbación") corresponde exactamente al concepto de frente de onda (opción 3). La opción 1 describe la longitud de onda o el alcance espacial de la propagación, mientras que la opción 2 refiere a un fenómeno de interacción o reflexión del foco emisor.
+
+============================================================
