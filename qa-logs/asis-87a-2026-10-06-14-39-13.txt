@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:39:13 · 0:30
+============================================================
+
+PREGUNTA:
+¿Cuáles son los correlatos perceptivos de la frecuencia y la amplitud? 1. Frecuencia igual altura, amplitud igual sonoridad. 2. Frecuencia igual sonoridad, amplitud igual altura. 3. Frecuencia igual fase, amplitud igual intensidad.
+
+RESPUESTA:
+Opción correcta: 1. Frecuencia = altura, amplitud = sonoridad.
+
+Por qué las otras son incorrectas: La opción 2 invierte las dimensiones psicoacústicas de los parámetros físicos, mientras que la opción 3 confunde conceptos físicos (amplitud/intensidad) y asigna incorrectamente la fase como correlato perceptivo de la frecuencia.
+
+============================================================
