@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:41:14 · 0:37
+============================================================
+
+PREGUNTA:
+Para nuestro sistema perceptivo en qué rango de frecuencias la DAP de altura para sonidos sinusoidales se mantiene 1 Hz. 1, entre 5 kHz a 10 kHz; 2, de 10 kHz hacia arriba; 3, de 1 kHz hacia abajo.
+
+RESPUESTA:
+Opción correcta: 3) De 1 kHz hacia abajo.
+
+Por qué las otras son incorrectas: Las opciones 1 y 2 son erróneas porque, según la psicoacústica, la Diferencia Apenas Perceptible (DAP) de frecuencia no se mantiene constante en 1 Hz para frecuencias altas, sino que permanece aproximadamente invariable en unos 2 a 3 Hz desde frecuencias graves hasta cerca de 1 kHz, aumentando drásticamente por encima de dicho límite.
+
+============================================================
