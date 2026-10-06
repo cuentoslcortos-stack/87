@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:28:49 · 0:30
+============================================================
+
+PREGUNTA:
+Al movimiento periódico se le denomina frecuencia: 1. A la amplitud del movimiento. 2. Al tiempo transcurrido al realizar un ciclo. 3. A la cantidad de ciclos por segundo.
+
+RESPUESTA:
+Opción correcta: 3) A la cantidad de ciclos por segundo.
+
+Por qué las otras son incorrectas: Las opciones 1 y 2 son incorrectas porque la amplitud mide la máxima desviación respecto al punto de equilibrio y el tiempo transcurrido en realizar un ciclo corresponde al período (T), no a la frecuencia (f).
+
+============================================================
