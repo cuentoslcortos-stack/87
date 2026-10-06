@@ -1,0 +1,14 @@
+asis-87a · 6/10/2026, 02:35:24 · 0:26
+============================================================
+
+PREGUNTA:
+Entendemos como fase 1 al tiempo en que se completa un ciclo. 2 Al punto de reposo del movimiento oscilatorio simple. 3 Al estado en que se encuentra un movimiento periódico en un instante dado.
+
+RESPUESTA:
+Palabra(s) faltante(s): 3 - al estado en que se encuentra un movimiento periódico en un instante dado.
+
+Frase completa: Entendemos como fase al estado en que se encuentra un movimiento periódico en un instante dado.
+
+Fundamento: La fase es la magnitud angular que especifica la posición relativa de una onda dentro de su ciclo en un tiempo determinado.
+
+============================================================
