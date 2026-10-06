@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:37:30 · 0:34
+============================================================
+
+PREGUNTA:
+¿Cuál de las siguientes suma de frecuencias produce como resultante un batido más lento? 1. 440 Hz + 453 Hz. 2. 2300 Hz + 2298 Hz. 3. 300 Hz + 303 Hz.
+
+RESPUESTA:
+Opción correcta: 2) 2000 Hz + 2298 Hz.
+
+Por qué las otras son incorrectas: La frecuencia de batido equivale al valor absoluto de la diferencia entre dos frecuencias ($f_b = |f_1 - f_2|$); la opción 2 genera la menor diferencia ($2\text{ Hz}$, un batido cada 0,5 segundos), mientras que la opción 3 produce $3\text{ Hz}$ y la opción 1 produce $13\text{ Hz}$.
+
+============================================================
