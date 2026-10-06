@@ -1,0 +1,12 @@
+asis-87a · 6/10/2026, 02:40:17 · 0:36
+============================================================
+
+PREGUNTA:
+Para nuestro sistema perceptivo ¿cuál es el umbral mínimo y máximo de presión sonora? 1, mínimo 20 Hz, máximo 20,000 Hz. 2, mínimo 20 dB, máximo 22,000 dB. 3, mínimo 0 dB, máximo 120 dB.
+
+RESPUESTA:
+Opción correcta: 3) Mínimo 0 dB, máximo 120 dB (SPL).
+
+Por qué las otras son incorrectas: Las opciones 1 y 2 confundieron la presión sonora con el rango de frecuencias audibles (20 Hz a 20.000 Hz) o utilizaron escalas y magnitudes incorrectas, ya que el umbral de audición psicoacústico estándar de presión sonora se define convencionalmente entre 0 dB SPL (20 µPa) y el umbral del dolor de 120-130 dB SPL.
+
+============================================================
