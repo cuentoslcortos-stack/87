@@ -1,0 +1,14 @@
+asis-87a · 6/10/2026, 02:49:52 · 0:12
+============================================================
+
+PREGUNTA:
+Describa las tres secciones del oído y explique sus funciones.
+
+RESPUESTA:
+Las tres secciones del oído son:
+
+1. Oído externo (pabellón y conducto auditivo): capta, focaliza la onda sonora y la dirige hacia el tímpano, aportando pistas de localización.
+2. Oído medio (tímpano y cadena de huesecillos): realiza el acoplamiento de impedancias entre el medio aéreo y el líquido, amplificando la presión mecánica.
+3. Oído interno (cóclea): efectúa el análisis frecuencial en la membrana basilar y realiza la transducción mecano-neuronal en el órgano de Corti hacia el nervio auditivo.
+
+============================================================
