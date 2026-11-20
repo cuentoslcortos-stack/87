@@ -1,0 +1,56 @@
+INSTRUCCIONES DE USO — Asistente 87A
+=====================================================
+
+Materia: Laboratorio de Sonido I
+Código: 87A
+Cátedra: Cura
+Facultad: Artes Multimediales, Universidad Nacional de las Artes (UNA)
+Tema de evaluación: Codificación digital de sonido
+
+Qué hace este tutor:
+  Asistente académico por voz. Escuchá una pregunta formulada oralmente
+  (opción múltiple, verdadero/falso, verdadero/falso con justificación o
+  pregunta abierta) sobre Codificación digital de sonido y devuelve la
+  respuesta en el formato que le corresponde. Pensado para preparar
+  parciales (E1, E2), trabajos prácticos (E3, E4) y exámenes finales
+  regulares y libres de Laboratorio de Sonido I.
+
+  La base de conocimiento NO son PDFs: el tutor responde con su
+  conocimiento técnico en codificación de audio digital, alineado a la
+  programática de la unidad y al marco de la Cátedra Cura, sin citar
+  autores, obras ni bibliografía.
+
+  Modos de respuesta y su extensión:
+    1) Opción múltiple → opción correcta + una oración de descarte
+       (hasta 50 palabras).
+    2) Verdadero/Falso → solo el dictamen (hasta 15 palabras).
+    3) Verdadero/Falso con justificación → dictamen + fundamento técnico
+       (entre 50 y 100 palabras).
+    4) Pregunta abierta → respuesta desarrollada (entre 150 y 200
+       palabras).
+    Tope absoluto: 200 palabras.
+
+Cómo se usa:
+  1. Pegá tu API Key de Gemini en el panel "Configuración" (esquina
+     inferior derecha). También podés fijarla como variable de entorno
+     VITE_GEMINI_API_KEY.
+  2. Tocá "Grabar" y formulá tu pregunta en voz alta. Podés pausar y
+     reanudar para releer; todo se acumula en un único clip.
+  3. Tocá "Enviar". La respuesta aparece escrita y se lee en voz alta
+     automáticamente.
+  4. La respuesta queda en la bitácora de la sesión y se guarda
+     automáticamente como archivo .txt en la carpeta qa-logs/ del
+     repositorio (segundo plano, sin interrumpir).
+
+Atajos:
+  · Botón 3 (Play/Pausa voz): pausar/reanudar la lectura de la
+    respuesta actual.
+
+Avisos:
+  · Las preguntas formuladas por voz se transcriben antes de enviarse
+    a Gemini (para que queden en el log).
+  · Si le preguntás algo fuera de la unidad, va a contestar con
+    la fórmula estándar de rechazo.
+  · El guardado automático en GitHub requiere un token con permiso
+    de Contents: read+write sobre este repo (configurado como
+    VITE_GITHUB_TOKEN en los Secrets del repo).
